@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-00B4D8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-102A43?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio" /></a>
+  <a href="https://sumitthapaliya.com.np"><img src="https://img.shields.io/badge/Portfolio-102A43?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0B132B?style=for-the-badge&logo=protonmail&logoColor=00D9FF" alt="Email" /></a>
 </div>
 
