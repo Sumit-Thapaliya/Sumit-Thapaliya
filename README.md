@@ -38,7 +38,7 @@ sumit@github:~$ I turn engineering ideas into practical applications.
 
 <div align="center">
   <a href="https://github.com/YOUR_USERNAME/MedBridge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=MedBridge&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="MedBridge" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUmit_Thapaliya&repo=MedBridge&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="MedBridge" />
   </a>
 
   <!-- Add more repositories here -->
