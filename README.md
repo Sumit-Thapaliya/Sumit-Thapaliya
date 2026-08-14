@@ -59,7 +59,7 @@
 
   <a href="https://github.com/Sumit_Thapaliya/MedBridge">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit_Thapaliya&repo=MedBridge&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Thapaliya&repo=MedBridge&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF"
       alt="MedBridge"
     />
   </a>
@@ -72,13 +72,13 @@
 
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Sumit_Thapaliya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D6E3"
+    src="https://github-readme-stats.vercel.app/api?username=Sumit-Thapaliya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D6E3"
     alt="GitHub statistics"
   />
 
   <img
     height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit_Thapaliya&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Thapaliya&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
     alt="Contribution streak"
   />
 
@@ -86,7 +86,7 @@
 
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit_Thapaliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D6E3"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Thapaliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D6E3"
     alt="Most-used languages"
   />
 
@@ -97,7 +97,7 @@
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit_Thapaliya&bg_color=050816&color=C9D6E3&line=00B4D8&point=00D9FF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Thapaliya&bg_color=050816&color=C9D6E3&line=00B4D8&point=00D9FF&area=true&hide_border=true"
     alt="Contribution graph"
   />
 
@@ -108,7 +108,7 @@
 <div align="center">
 
   <img
-    src="https://komarev.com/ghpvc/?username=Sumit_Thapaliya&label=PROFILE+VIEWS&color=00B4D8&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=Sumit-Thapaliya&label=PROFILE+VIEWS&color=00B4D8&style=flat-square"
     alt="Profile views"
   />
 
