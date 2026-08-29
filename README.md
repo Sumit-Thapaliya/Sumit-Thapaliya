@@ -57,20 +57,24 @@
 
 <div align="center">
 
-  <a href="https://github.com/Sumit-Thapaliya/MedBridge">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Thapaliya&repo=MedBridge&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF"
-      alt="MedBridge"
-    />
-  </a>
-  
-<a href="https://github.com/Sumit-Thapaliya/VisionBoard">
+<a href="https://github.com/Sumit-Thapaliya/MedBridge">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Thapaliya&repo=VisionBoard&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF"
-    alt="Project"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Thapaliya&repo=MedBridge&show_owner=true&description_lines_count=2&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF"
+    alt="MedBridge"
   />
 </a>
+
+<a href="https://github.com/Sumit-Thapaliya/VisionBoard">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Thapaliya&repo=VisionBoard&show_owner=true&description_lines_count=2&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF"
+    alt="VisionBoard"
+  />
+</a>
+
 </div>
+
 
 ## `> github --telemetry`
 
