@@ -57,13 +57,19 @@
 
 <div align="center">
 
-  <a href="https://github.com/Sumit_Thapaliya/MedBridge">
+  <a href="https://github.com/Sumit-Thapaliya/MedBridge">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Thapaliya&repo=MedBridge&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF"
       alt="MedBridge"
     />
   </a>
-
+  
+<a href="https://github.com/Sumit-Thapaliya/VisionBoard">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Thapaliya&repo=VisionBoard&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF"
+    alt="Project"
+  />
+</a>
 </div>
 
 ## `> github --telemetry`
@@ -78,7 +84,7 @@
 
   <img
     height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Thapaliya&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+    src="https://streak-stats.demolab.com/?user=Sumit-Thapaliya&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
     alt="Contribution streak"
   />
 
