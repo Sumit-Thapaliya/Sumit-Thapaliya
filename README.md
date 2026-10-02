@@ -111,10 +111,7 @@
 
 <div align="center">
 
-  <img
-    src="https://komarev.com/ghpvc/?username=Sumit-Thapaliya&label=PROFILE+VIEWS&color=00B4D8&style=flat-square"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Sumit-Thapaliya&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views" />
 
   <br /><br />
 
