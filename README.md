@@ -106,6 +106,22 @@ I'm a Computer Engineering student and software developer who enjoys building pr
   />
 </div>
 
+## Contribution snake
+
+<div align="center">
+  <a href="https://github.com/Sumit-Thapaliya/Sumit-Thapaliya/actions/workflows/snake.yml">
+    <img src="https://github.com/Sumit-Thapaliya/Sumit-Thapaliya/actions/workflows/snake.yml/badge.svg?branch=main" alt="Contribution snake workflow status" />
+  </a>
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumit-Thapaliya/Sumit-Thapaliya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumit-Thapaliya/Sumit-Thapaliya/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/Sumit-Thapaliya/Sumit-Thapaliya/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <br />
+  <sub>Generated daily from my GitHub contributions with GitHub Actions.</sub>
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumit-Thapaliya&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square" alt="Profile views" />
   <br /><br />
